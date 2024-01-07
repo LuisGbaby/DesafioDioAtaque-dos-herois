@@ -23,7 +23,7 @@ class herois{
 }
 
 const rasta = new herois ("rasta", 18, "ninja")
-const rasta = new herois ("rasta", 18, "ninja")
+const careca = new herois ("careca", 45, "mago")
 
 
 rasta.atacar();
